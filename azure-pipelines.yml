@@ -11,7 +11,7 @@ variables:
   repoUrl: 'https://github.com/Lim-JL/e08g03t07-odoo17.git'
   updateScript: '/home/is214/deploy-temp/update_code.sh'
   stagePath: '/home/is214/'
-  tempDeploy: '/home/is214/deploy-temp'
+  # tempDeploy: '/home/is214/deploy-temp'
   
 stages:
 
